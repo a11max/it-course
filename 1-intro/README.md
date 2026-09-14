@@ -7,6 +7,7 @@
 
 | Тип | Материал | Описание | Запуск |
 |:---:|----------|----------|:------:|
+| 🤗  | [Hugging Face](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)        | Страница модели Qwen2.5-0.5B-Instruct для скачивания | [Открыть](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)          |
 | 🔬 | [LLM-Talk.ipynb](Labs/LLM-Talk.ipynb) | Две LLM общаются друг с другом — создание класса `Agent` и диалог между двумя LLM | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a11max/it-course/blob/main/1-intro/Labs/LLM-Talk.ipynb)|
 
 # Теоретический материал к лабораторной работе  
